@@ -35,21 +35,21 @@ The system provides tools for dispatching, monitoring, and managing mobile teams
 ## Technology Stack
 
 ### Frontend
- -React
--Redux
--JavaScript
--CSS
--Leaflet
+- React
+- Redux
+- JavaScript
+- CSS
+- Leaflet
 
 ### Backend
--Node.js
--Express.js
--REST API
--Database
--PostgreSQL
--Authentication & Security
--JWT Authentication
--Role-Based Access Control (RBAC)
+- Node.js
+- Express.js
+- REST API
+- Database
+- PostgreSQL
+- Authentication & Security
+- JWT Authentication
+- Role-Based Access Control (RBAC)
 
 ## Project Structure
 Web-Based/

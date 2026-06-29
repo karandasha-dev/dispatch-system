@@ -7,30 +7,30 @@ A full-stack web application designed to manage and coordinate mobile teams, ser
 The system provides tools for dispatching, monitoring, and managing mobile teams, tracking service requests, generating reports, and controlling user access through role-based permissions.
 
 # Features
--Request Management
--Create, update, and delete requests
--Change request statuses
--Sort and filter requests
--Track request progress
--Mobile Team Management
--Create and manage mobile teams
--Assign teams to requests
--Update and remove team assignments
--Real-Time Monitoring
--Real-time location tracking using Leaflet maps
--Interactive map visualization
--Team location monitoring
--Reports & Analytics
--View operational reports
--Analyze system statistics
--Monitor team performance
--User & Access Management
--User registration and authentication
--Secure login and logout
--Role-Based Access Control (RBAC)
--Create and manage user roles
--Control access to application pages and features
--User CRUD operations
+- Request Management
+- Create, update, and delete requests
+- Change request statuses
+- Sort and filter requests
+- Track request progress
+- Mobile Team Management
+- Create and manage mobile teams
+- Assign teams to requests
+- Update and remove team assignments
+- Real-Time Monitoring
+- Real-time location tracking using Leaflet maps
+- Interactive map visualization
+- Team location monitoring
+- Reports & Analytics
+- View operational reports
+- Analyze system statistics
+- Monitor team performance
+- User & Access Management
+- User registration and authentication
+- Secure login and logout
+- Role-Based Access Control (RBAC)
+- Create and manage user roles
+- Control access to application pages and features
+- User CRUD operations
 
 ## Technology Stack
 
